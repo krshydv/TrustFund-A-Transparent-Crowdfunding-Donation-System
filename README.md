@@ -7,7 +7,7 @@ A full-stack crowdfunding platform focused on transparency and trust.
 - Backend: Node.js + Express
 - Database: MongoDB
 - Authentication: JWT
-- Payments: (Add if used)
+- Payments: Razorpay
 
 ## Project Structure
 - frontend/ – React application
